@@ -91,9 +91,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2aaebe4d01c94c14cbe713a4f1974dd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objPrefab: {fileID: 4608523111775412107}
-  listaObjetos: []
-  materiais: []
 --- !u!135 &1580179563512396062
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -102,7 +99,7 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4608523111775412107}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
